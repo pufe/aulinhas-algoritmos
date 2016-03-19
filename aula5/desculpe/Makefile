@@ -1,5 +1,5 @@
 file=desculpe
 test: debug
-	./$(file) < input | diff - output
+	./$(file).exe < input | diff - output
 debug:
-	g++ $(file).cpp -o $(file) -g -ansi -pedantic -Wall -Wno-long-long
+	g++ $(file).cpp -o $(file).exe -g -ansi -pedantic -Wall -Wno-long-long
