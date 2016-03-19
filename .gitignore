@@ -1,0 +1,8 @@
+# ignores emacs backup files
+*~
+# ignores executables
+*.exe
+# ignores debug symbols
+*.dSYM
+# ignores mac os .DS_Store file
+.DS_Store

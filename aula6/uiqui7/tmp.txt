@@ -1,0 +1,13 @@
+Chaves 0
+< Chiquinha 2
+< Dona_Clotilde 5
+< Dona_Florinda 4
+< Professor_Girafales 3
+< Quico 1
+
+chaves  0 1 0 0 0 1
+quico   0 0 1 0 0 0
+chiq    0 0 0 0 0 0
+gira    0 0 0 0 1 0
+flor    0 0 0 0 0 0
+clo     0 0 0 0 0 0
