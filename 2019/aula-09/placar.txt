@@ -1,0 +1,29 @@
+23426434	2019-03-16 20:01:29	quazariun	Triângulo	Resposta errada	0.00	2.7M
+C++
+
+4.3.2
+
+23426431	2019-03-16 20:01:10	MarcioOrdonez	Triângulo	Resposta errada	0.00	10M
+C
+
+23426416	2019-03-16 19:59:51	japa	Quem vai ser reprovado	Resposta errada	0.00	2.7M
+C++
+
+4.3.2
+
+23426409	2019-03-16 19:58:59	quazariun	Campeonato	accepted	0.00	2.7M
+C++
+
+4.3.2
+
+23426408	2019-03-16 19:58:50	argustheiii	Triângulo	Resposta errada	0.00	16M
+CPP
+
+23426407	2019-03-16 19:58:46	CesarKazu	Gangorra	accepted	0.00	16M
+CPP
+
+23426405	2019-03-16 19:58:42	GGranato	Chocolate	Resposta errada	0.00	9.1M
+C
+
+23426403	2019-03-16 19:58:28	CesarKazu	Triângulo	accepted	0.00	16M
+CPP
