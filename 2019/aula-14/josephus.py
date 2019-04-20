@@ -25,7 +25,7 @@ def solve(n, prime):
     return list_ptr.value
 
 def generate_primes():
-    limit = 35_000
+    limit = 35_100
     number_list = list(range(limit))
     number_list[0] = number_list[1] = False
     primes = []
@@ -40,6 +40,7 @@ def generate_primes():
 
 def main():
     prime = generate_primes()
+    print(len(prime))
     while True:
         x = int(input())
         if x==0:
