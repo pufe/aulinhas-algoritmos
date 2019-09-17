@@ -2,6 +2,7 @@
 *~
 # ignores executables
 *.exe
+exec
 # ignores debug symbols
 *.dSYM
 # ignores mac os .DS_Store file
