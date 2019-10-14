@@ -27,7 +27,7 @@ huge count_in_interval(huge a, huge b) {
 }
 
 int main() {
-  huge a, b, c;
+  huge a, b;
   while(true) {
     scanf(" %lld %lld", &a, &b);
     if (a==0 && b==0)
