@@ -1,0 +1,26 @@
+3 1
+1 2 3
+4 5 6
+7 8 9
+rot 90
+3 1
+1 2 3
+4 5 6
+7 8 9
+move direita
+3 1
+1 2 3
+4 5 6
+7 8 9
+espelho vertical
+3 7
+1 2 3
+4 5 6
+7 8 9
+rot 90
+move direita
+rot -90
+move cima
+espelho vertical
+move cima
+espelho horizontal

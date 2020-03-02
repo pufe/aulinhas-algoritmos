@@ -2,6 +2,5 @@
 - https://br.spoj.com/problems/contest_noturno/sort=6
 
 ### Exercícios resolvidos dessa lista
-- https://br.spoj.com/problems/TORCIDAS `torcidas.cpp`
-- https://br.spoj.com/problems/ZELDA `zelda.cpp`
-- https://br.spoj.com/problems/LOTOFACI `lotofaci.cpp`
+- https://br.spoj.com/problems/LANCHES `lanches.cpp`
+- https://br.spoj.com/problems/TV7CN `tv7cn.cpp`
